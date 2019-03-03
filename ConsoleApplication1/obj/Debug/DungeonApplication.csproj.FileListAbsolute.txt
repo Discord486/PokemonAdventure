@@ -1,0 +1,10 @@
+C:\Users\student\Documents\Visual Studio 2015\Projects\DungeonApplication\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\student\Documents\Visual Studio 2015\Projects\DungeonApplication\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\student\Documents\Visual Studio 2015\Projects\DungeonApplication\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\student\Documents\Visual Studio 2015\Projects\DungeonApplication\ConsoleApplication1\ConsoleApplication1\obj\Debug\DungeonApplication.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\Visual Studio 2015\Projects\DungeonApplication\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\student\Documents\Visual Studio 2015\Projects\DungeonApplication\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\student\Documents\Visual Studio 2015\Projects\DungeonApplication\ConsoleApplication1\ConsoleApplication1\bin\Debug\DungeonLibrary.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\DungeonApplication\ConsoleApplication1\ConsoleApplication1\bin\Debug\DungeonMonster.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\DungeonApplication\ConsoleApplication1\ConsoleApplication1\bin\Debug\DungeonLibrary.pdb
+C:\Users\student\Documents\Visual Studio 2015\Projects\DungeonApplication\ConsoleApplication1\ConsoleApplication1\bin\Debug\DungeonMonster.pdb
